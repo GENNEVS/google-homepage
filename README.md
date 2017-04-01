@@ -1,9 +1,9 @@
 
-#The Odin Project | Project: HTML/CSS
+# The Odin Project | Project: HTML/CSS
 
-##Easy Version: Build the Google.com homepage
+## Easy Version: Build the Google.com homepage
 
-###Skills:
+### Skills:
 1. Working with the box model
 2. Aligning of elements
 3. Working with sprites
